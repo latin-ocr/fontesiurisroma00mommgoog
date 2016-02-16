@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesiurisroma00mommgoog_0008.png"; bbox 0 0 3184 5156; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 508 4243 1112 4313">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 508 4243 1112 4313">
+     <span class='ocr_line' id='line_1_1' title="bbox 508 4243 1112 4313; baseline -0.01 -1"><span class='ocrx_word' id='word_1_1' title='bbox 508 4243 511 4250; x_wconf 75' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 551 4244 594 4312; x_wconf 64' lang='lat' dir='ltr'><strong>n&#39;x</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 608 4270 755 4313; x_wconf 72' lang='lat' dir='ltr'><strong>omem</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 767 4271 797 4310; x_wconf 80' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 810 4269 944 4310; x_wconf 71' lang='lat' dir='ltr'><strong>mum.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 957 4262 1112 4308; x_wconf 68' lang='lat' dir='ltr'><strong>mmm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1596 5156">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1596 5156">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1596 5156; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1596 5156; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
